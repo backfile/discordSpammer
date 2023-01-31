@@ -25,3 +25,4 @@ def sendMessages(token, channel, message, delay):
 
 if __name__ == "__main__":
     sendMessages(token, channel, message, delay)
+# :D
