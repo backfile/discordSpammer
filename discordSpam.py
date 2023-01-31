@@ -4,7 +4,7 @@ import time
 print(" ║█║▌║█║▌│║▌║▌█║ Created By Frann#8446  ║█║▌║█║▌│║▌║▌█║")
 
 
-token = input("Ingrese su token: ")
+token = input("Token: ")
 channel = int(input("ID of channel: "))
 message = input("Message to spam: ")
 delay = int(input("Delay: "))
