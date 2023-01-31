@@ -1,7 +1,7 @@
 import requests
 import time
 
-print(" ║█║▌║█║▌│║▌║▌█║ Created By Frann#8446  ║█║▌║█║▌│║▌║▌█║")
+print("Created By Frann#8446")
 
 
 token = input("Token: ")
